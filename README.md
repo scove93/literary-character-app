@@ -1,10 +1,11 @@
-![Screenshot](https://res.cloudinary.com/turnup/image/upload/v1526512881/homepage-cards.png)
+![Screenshot](https://i.imgur.com/hSF1raV.png)
 
-# First Node Website Tutorial
+# Literary Character Portfolio
 
-These repo contains the finished code for the tutorial on building a simple Node.js website with Express and Pug.
+This repo builds upon a tutorial to build a Node.js website with Express and Pug that displays famous literary characters. 
 
-You can [access the tutorial here](https://freshman.tech/learn-node).
+
+Link to [tutorial here](https://freshman.tech/learn-node).
 
 [Live demo](https://node-express-pug.herokuapp.com/)
 
@@ -16,8 +17,6 @@ You can [access the tutorial here](https://freshman.tech/learn-node).
 1. Run `npm start`
 2. Navigate to `localhost:7000`
 
-## Getting Help
 
-Need some help? Leave a comment on the tutorial — this repo is meant as a place to grab the finished code and isn't a support channel.
 
 

@@ -1,15 +1,16 @@
 {
-  "name": "simple-node-website",
+  "name": "literary-character-portfolio",
   "version": "0.1.0",
-  "description": "A simple website built with Node, Express and Pug",
+  "description": "A profile of famous literary characters built with Node, Express and Pug",
   "main": "server.js",
   "scripts": {
     "start": "npx nodemon server.js"
   },
-  "author": "Ayo Isaiah",
+  "author": "Sean Coverdill",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.3",
+    "bootstrap": "^4.3.1",
+    "express": "^4.17.1",
     "pug": "^2.0.3"
   },
   "devDependencies": {

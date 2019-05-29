@@ -10,7 +10,7 @@ app.use(express.static(__dirname + "/public"));
 
 app.get("/", (req, res) => {
   res.render("index", {
-    title: "Homepage",
+    title: "19th Century Gentleman",
     people: people.profiles
   });
 });
